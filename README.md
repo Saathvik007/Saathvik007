@@ -9,3 +9,13 @@ Hi, I'm Saathvik. I do data and business analysis projects with SQL, Excel, Pyth
 | Event check-in system case | Requirements, process maps, a SQLite prototype and 18 acceptance tests for a made-up career office. In the synthetic data, 15.6% of the old spreadsheet rows needed a fix or a check, and 43.9% of registrations were no-shows. | [event-checkin-system-case](https://github.com/Saathvik007/event-checkin-system-case) | [Attendance and follow-ups](https://public.tableau.com/app/profile/saathvik.maheshuni/viz/Eventcheck-insystemcase/Eventcheck-inattendanceandfollow-upssynthetic) |
 
 You can find more of my dashboards, including five earlier ones, on my [Tableau Public profile](https://public.tableau.com/app/profile/saathvik.maheshuni).
+
+## Course projects
+
+These are from my MS in Management of Technology at NYU Tandon.
+
+| Project | What I did | Repo |
+|---|---|---|
+| Pizza Place Project: valuing a pizzeria purchase | Five-year pro forma statements, WACC, CAPM and a DCF for buying a $300,000 pizzeria. Paying with $100,000 cash and a $200,000 loan gave an NPV of $487,258, compared with $248,906 for paying all cash. | [pizza-place-acquisition-evaluation](https://github.com/Saathvik007/pizza-place-acquisition-evaluation) |
+| Beyond the Firewall: cybersecurity industry analysis | A five-person team paper on how AI and vendor consolidation are changing the US cybersecurity industry. I wrote the Business Model Canvas and SWOT of Palo Alto Networks that the team's six recommendations came from. | [cybersecurity-industry-analysis](https://github.com/Saathvik007/cybersecurity-industry-analysis) |
+| Strategy briefs on WSJ deals | Short briefs on Compass buying Anywhere for $1.6 billion, JPMorgan's $10 billion security investment plan and Google's $24 billion AI build-out. | [wsj-strategy-briefs](https://github.com/Saathvik007/wsj-strategy-briefs) |
