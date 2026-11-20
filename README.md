@@ -1,6 +1,6 @@
 # Saathvik Maheshuni
 
-Hi, I'm Saathvik. I do data and business analysis projects with SQL, Excel, Python and Tableau. Each project below has a repo with the code or model, the results, a one-page memo, and a Tableau dashboard.
+Hi, I'm Saathvik. I do data and business analysis projects with SQL, Excel and Tableau. Each project below has a repo with the code or model, the results, a one-page memo, and a Tableau dashboard.
 
 | Project | What I found | Repo | Dashboard |
 |---|---|---|---|
@@ -16,7 +16,7 @@ These are from my MS in Management of Technology at NYU Tandon.
 
 | Project | What I did | Repo |
 |---|---|---|
-| Pizza Place Project: valuing a pizzeria purchase | Five-year pro forma statements, WACC, CAPM and a DCF for buying a $300,000 pizzeria. Paying with $100,000 cash and a $200,000 loan gave an NPV of $487,258, compared with $248,906 for paying all cash. | [pizza-place-acquisition-evaluation](https://github.com/Saathvik007/pizza-place-acquisition-evaluation) |
+| Pizza Place Project: valuing a pizzeria purchase | Five-year pro forma statements, WACC, CAPM and a DCF for buying a $300,000 pizzeria. Paying all cash gave an NPV of $248,906, and I compared it with buying with $100,000 cash and a $200,000 loan. | [pizza-place-acquisition-evaluation](https://github.com/Saathvik007/pizza-place-acquisition-evaluation) |
 | Beyond the Firewall: cybersecurity industry analysis | A five-person team paper on how AI and vendor consolidation are changing the US cybersecurity industry. I wrote the Business Model Canvas and SWOT of Palo Alto Networks that the team's six recommendations came from. | [cybersecurity-industry-analysis](https://github.com/Saathvik007/cybersecurity-industry-analysis) |
 | Strategy briefs on WSJ deals | Short briefs on Compass buying Anywhere for $1.6 billion, JPMorgan's $10 billion security investment plan and Google's $24 billion AI build-out. | [wsj-strategy-briefs](https://github.com/Saathvik007/wsj-strategy-briefs) |
 | Garmin Venu Care: brand extension proposal | My Strategic Marketing midterm. I proposed a Garmin watch with fall detection and a staffed response plan for older adults who live alone, priced at $349.99 plus $34.99 a month. Lifetime value came out at 3.15 times the cost to get a customer. | [garmin-venu-care-brand-extension](https://github.com/Saathvik007/garmin-venu-care-brand-extension) |
